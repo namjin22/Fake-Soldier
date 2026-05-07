@@ -1,14 +1,19 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 682bb49cbc6c53148a6bf03e7c5f6eba
-=======
-guid: 98d7a09f6bd43d54391d4fc587bd7258
->>>>>>> b8e3e53b7b1c043f91ac16478f66d6edc1744646
+guid: 1df01729fab0d9d40931ef68af782705
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8784041285448713003
-    second: bg_01_main_menu_0
+      213: -4906046336083550502
+    second: SMS_Soldier_CLIMB_EAST_strip4_0
+  - first:
+      213: 834571912658863504
+    second: SMS_Soldier_CLIMB_EAST_strip4_1
+  - first:
+      213: 4518359691507015982
+    second: SMS_Soldier_CLIMB_EAST_strip4_2
+  - first:
+      213: 5683828782175799272
+    second: SMS_Soldier_CLIMB_EAST_strip4_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -104,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_01_main_menu_0
+      name: SMS_Soldier_CLIMB_EAST_strip4_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 576
+        x: 4
+        y: 1
+        width: 13
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5dcb670adf0d81680800000000000000
-      internalID: -8784041285448713003
+      spriteID: ade1226c9d83aebb0800000000000000
+      internalID: -4906046336083550502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_CLIMB_EAST_strip4_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095cc899bbef49b00800000000000000
+      internalID: 834571912658863504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_CLIMB_EAST_strip4_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2128bb333074be30800000000000000
+      internalID: 4518359691507015982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_CLIMB_EAST_strip4_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7cab5c92401ee40800000000000000
+      internalID: 5683828782175799272
       vertices: []
       indices: 
       edges: []
@@ -139,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_01_main_menu_0: -8784041285448713003
+      SMS_Soldier_CLIMB_EAST_strip4_0: -4906046336083550502
+      SMS_Soldier_CLIMB_EAST_strip4_1: 834571912658863504
+      SMS_Soldier_CLIMB_EAST_strip4_2: 4518359691507015982
+      SMS_Soldier_CLIMB_EAST_strip4_3: 5683828782175799272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

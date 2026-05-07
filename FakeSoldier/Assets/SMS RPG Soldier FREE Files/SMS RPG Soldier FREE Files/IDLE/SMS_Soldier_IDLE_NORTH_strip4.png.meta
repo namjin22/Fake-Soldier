@@ -1,14 +1,19 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 682bb49cbc6c53148a6bf03e7c5f6eba
-=======
-guid: 98d7a09f6bd43d54391d4fc587bd7258
->>>>>>> b8e3e53b7b1c043f91ac16478f66d6edc1744646
+guid: 225379bd939049346beb52aac02dd15a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8784041285448713003
-    second: bg_01_main_menu_0
+      213: -4405845340762757966
+    second: SMS_Soldier_IDLE_NORTH_strip4_0
+  - first:
+      213: -5153249468701165454
+    second: SMS_Soldier_IDLE_NORTH_strip4_1
+  - first:
+      213: -5563522244180848613
+    second: SMS_Soldier_IDLE_NORTH_strip4_2
+  - first:
+      213: 1970936453040274950
+    second: SMS_Soldier_IDLE_NORTH_strip4_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -104,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_01_main_menu_0
+      name: SMS_Soldier_IDLE_NORTH_strip4_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 1024
-        height: 576
+        width: 14
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5dcb670adf0d81680800000000000000
-      internalID: -8784041285448713003
+      spriteID: 2b4a688710b4bd2c0800000000000000
+      internalID: -4405845340762757966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_IDLE_NORTH_strip4_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278b81b49eafb78b0800000000000000
+      internalID: -5153249468701165454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_IDLE_NORTH_strip4_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10dd97eef56ac2b0800000000000000
+      internalID: -5563522244180848613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_IDLE_NORTH_strip4_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e7556f24c2a5b10800000000000000
+      internalID: 1970936453040274950
       vertices: []
       indices: 
       edges: []
@@ -139,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_01_main_menu_0: -8784041285448713003
+      SMS_Soldier_IDLE_NORTH_strip4_0: -4405845340762757966
+      SMS_Soldier_IDLE_NORTH_strip4_1: -5153249468701165454
+      SMS_Soldier_IDLE_NORTH_strip4_2: -5563522244180848613
+      SMS_Soldier_IDLE_NORTH_strip4_3: 1970936453040274950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,14 +1,19 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 682bb49cbc6c53148a6bf03e7c5f6eba
-=======
-guid: 98d7a09f6bd43d54391d4fc587bd7258
->>>>>>> b8e3e53b7b1c043f91ac16478f66d6edc1744646
+guid: 2f57dced9d63f574bafd0aeeab98b749
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8784041285448713003
-    second: bg_01_main_menu_0
+      213: 336302145646256982
+    second: SMS_Soldier_WALK_WEST_strip4_0
+  - first:
+      213: 1892292058036575716
+    second: SMS_Soldier_WALK_WEST_strip4_1
+  - first:
+      213: 7499538684236353637
+    second: SMS_Soldier_WALK_WEST_strip4_2
+  - first:
+      213: 3559584637579499765
+    second: SMS_Soldier_WALK_WEST_strip4_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -104,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_01_main_menu_0
+      name: SMS_Soldier_WALK_WEST_strip4_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 1024
-        height: 576
+        width: 10
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5dcb670adf0d81680800000000000000
-      internalID: -8784041285448713003
+      spriteID: 65362780509caa400800000000000000
+      internalID: 336302145646256982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_WALK_WEST_strip4_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed109ad995c24a10800000000000000
+      internalID: 1892292058036575716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_WALK_WEST_strip4_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5605535f2b6b31860800000000000000
+      internalID: 7499538684236353637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMS_Soldier_WALK_WEST_strip4_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f81dde4e5f266130800000000000000
+      internalID: 3559584637579499765
       vertices: []
       indices: 
       edges: []
@@ -139,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_01_main_menu_0: -8784041285448713003
+      SMS_Soldier_WALK_WEST_strip4_0: 336302145646256982
+      SMS_Soldier_WALK_WEST_strip4_1: 1892292058036575716
+      SMS_Soldier_WALK_WEST_strip4_2: 7499538684236353637
+      SMS_Soldier_WALK_WEST_strip4_3: 3559584637579499765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

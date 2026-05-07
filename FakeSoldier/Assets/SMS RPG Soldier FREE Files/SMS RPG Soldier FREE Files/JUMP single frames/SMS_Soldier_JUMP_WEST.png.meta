@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 682bb49cbc6c53148a6bf03e7c5f6eba
-=======
-guid: 98d7a09f6bd43d54391d4fc587bd7258
->>>>>>> b8e3e53b7b1c043f91ac16478f66d6edc1744646
+guid: 3604a70b8216b9d4d829c624edbd3c6f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8784041285448713003
-    second: bg_01_main_menu_0
+      213: 2561482608024028521
+    second: SMS_Soldier_JUMP_WEST_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -104,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_01_main_menu_0
+      name: SMS_Soldier_JUMP_WEST_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 1024
-        height: 576
+        width: 11
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5dcb670adf0d81680800000000000000
-      internalID: -8784041285448713003
+      spriteID: 9650d955cd63c8320800000000000000
+      internalID: 2561482608024028521
       vertices: []
       indices: 
       edges: []
@@ -139,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_01_main_menu_0: -8784041285448713003
+      SMS_Soldier_JUMP_WEST_0: 2561482608024028521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
