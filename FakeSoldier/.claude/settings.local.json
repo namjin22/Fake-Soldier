@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem *)",
+      "Bash(findstr -v \"Library\")",
+      "PowerShell(New-Item *)"
+    ]
+  }
+}
